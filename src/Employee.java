@@ -30,10 +30,6 @@ public class Employee {
         return this.id;
     }
 
-    public void setEmployeesName(String employeesName) {
-        this.employeesName = employeesName;
-    }
-
     public void setSalary(int salary) {
         this.salary = salary;
     }
